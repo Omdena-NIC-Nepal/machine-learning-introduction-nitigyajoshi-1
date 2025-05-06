@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gc5EIubW)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/GGSndum_)
 # Machine Learning Beginner Project: Linear Regression
 ### Project Title: Predicting House Prices Using Linear Regression
 
@@ -15,20 +15,19 @@
 - Collaboration and Version Control
   
 
-├── data
+├── data # done
 
-│   └── boston_housing.csv
+│   └── boston_housing.csv      #done
 
-├── notebooks
+├── notebooks   #done
 
-│   ├── EDA.ipynb
+│   ├── EDA.ipynb   #done
 
+│   ├── Data_Preprocessing.ipynb #done
 
-│   ├── Data_Preprocessing.ipynb
+│   ├── Model_Training.ipynb    #done
 
-│   ├── Model_Training.ipynb
-
-│   └── Model_Evaluation.ipynb
+│   └── Model_Evaluation.ipynb  #done
 
 ├── scripts
 
